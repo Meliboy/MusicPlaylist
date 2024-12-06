@@ -1,8 +1,8 @@
 # Portfolio Part 6: Finishing Touches
 
-- **Name**: <!-- TODO: fill with first and last name (e.g., Brutus Buckeye) and delete this comment -->
-- **Dot Number**: <!-- TODO: fill with OSU dot number (e.g., buckeye.17) and delete this comment -->
-- **Due Date**: <!-- TODO: fill out with due date and time (e.g., 10/17 @ 3:10 PM EST) and delete this comment -->
+- **Name**: Melvin Vasquez
+- **Dot Number**: Vasquez.192
+- **Due Date**: 12/4 @ 3:00 PM EST
 
 ## Assignment Overview
 
@@ -49,8 +49,6 @@ Many of these additional techniques are somewhat out of the scope of this
 course, but just knowing about them could set you up for long term success.
 
 ## Assignment Checklist
-
-<!-- TODO: browse the checklist then delete this comment -->
 
 To be sure you have completed everything on this assignment, we have littered
 this document with TODO comments. You can browse all of them in VSCode by
@@ -131,8 +129,6 @@ merges, you will need to pull the changes from main into your current branch
 to see them. If you don't like this workflow, you may try following the
 rebase strategies described [here](https://stackoverflow.com/questions/35790561/working-while-waiting-for-pending-pr)
 and [here](https://stackoverflow.com/questions/18021888/continue-working-on-a-git-branch-after-making-a-pull-request).
-
-<!-- TODO: make a new branch from main then delete this comment -->
 
 ## Assignment Tasks
 
@@ -298,18 +294,18 @@ Take some time to fill them out honestly.
 > complete the portfolio project, how much better (or worse) do you think you
 > understand software development and why?
 
-<!-- TODO: discuss -->
+Ive learned a lot about how data structures are layered and how new ones are made. I thought software development is something too above my understanding but I reealized how putting what I've learned in softare to practice has helped me understand and get a feel for the designing and iterative side of software creation. I enjoyed this alot and I feel that it has an option for so much creativity that I am interested in getting into Software development.
 
 > Also, did the portfolio project surface any gaps in your own knowledge of
 > software development. If so, what are those gaps and how did you address them?
 
-<!-- TODO: discuss -->
+With the concepts of layering and implementing data structures on other ones I have gotten way more of a better understanding and I understand more rules that are imposed on the kernel methods and secondary methods such as kernels can only use the kernels of the other data structure and that secondary methods can only be implemented with kernel and standard. I had very little understanding of github and also just importing libraries and jars and stuff that I have learned what a lot of these random things on my emplorer mean and do. I have a lot to learn but I'm happy that I am getting more used to it all.
 
 > Finally, as a part of completing the portfolio project, to what extent has
 > your perspective of software development changed, if at all? In other words,
 > is software development something you still enjoy? If not, why not?
 
-<!-- TODO: discuss -->
+I thought that software development would be something I wouldn't like because I did think it would be too hard for me but while it is I defintely feel confident on my ability to design and I hope to use my creativity to continue experimenting with things like creating components and so much more. The aspect of video game development was cool to me because you could see and use what you make and I've learned in SW and more with the Portfolio project that I can create amazing things as well! So I have become more open to it as a future career path!
 
 > One of the challenges of completing the portfolio project is picking up a lot
 > of skills on your own. Some of these skills are, of course, software skills.
@@ -317,29 +313,33 @@ Take some time to fill them out honestly.
 > this process. Therefore, the first question is what skills did you pick up
 > through this process?
 
-<!-- TODO: discuss -->
+I picked up a number of skills: using github and creating branches and making pull requests... allegedly.
+I learned how to import libraries (jars) and I now know that they go into the lib.
+I practiced on creating test suites for kernel and secondary methods. I gained a better understanding about the layering in which components are built on and more comfortable with VS in general. I learned how to update and manage a change log.
 
 > The follow-up question is: could you rephrase these skills you picked up
 > as bullet points that you could put on a resume? Try it below.
 
-<!-- TODO: discuss -->
+Designed a Playlist Componenent on top of Queue from OSU Components.
+
+- created a test suite for MusicPlaylist Kernel and Secondary methods.
+- User is able to store songs and are given a variety of methods available to them: shuffle(), removeSong(), addPlaylist() and more.
+- users are able to modify playlists of songs.
 
 > Next, how has working on this project affected your career trajectory?
 > In other words, do you now hate the topic you picked? Or, are you even more
 > interested in it? Both outcomes are valuable to your personal development.
 
-<!-- TODO: discuss -->
+I enjoyed my topic and am excited to see what I could do with my component. My idea is to use my component to store songs and by removing the songs I can play them. How I can "play" the songs is unknown to me but I would love to explore this next step in designing a somewhat functional music app like spotify. This is what I want to learn more about how to design a website and in my case, one to play and share music!
 
 > Finally, consider the skills you've picked up and your current career
 > trajectory. What are some things you could do to continue on your
 > career trajectory? Also, who are some mentors you could contact to help
 > you stay on your path?
 
-<!-- TODO: discuss -->
+I'm honestly not sure but I've heard of more and more clubs that could help me in finding the people who can guide me. One of my biggest goals for next semester is to join ColorStack and to just talk to more people in the Software Engineering field. I want to learn as much as I can and I have started to realize that I want to create something that all people can interact with and use. Something new and innovative so I want to continue to use my creativity to create new things. I'll use winter break to focus on finishing my resume and applying for internships or programs that interest me and I hope to feel more confident in my career. As a first gen student everything is scary and foriegn and for most of my time at OSU I thought I wasn't made for anything, but I'm starting to understand that I dont know what I want to make, I am more than enough to do CS. I'll continue to reach out to my professors for guidance and you'll probably be hearing from me in the future loll!! Thank you Dr. Grifski!!!
 
 ### Changelog
-
-<!-- TODO: update CHANGELOG then delete this comment -->
 
 At the end of every assignment, you should update the
 [CHANGELOG.md](../../CHANGELOG.md) file found in the root of the project folder.
@@ -374,8 +374,6 @@ like to accomplish that, you will need to make GitHub releases after each pull
 request merge (or at least tag your commits). This is not required.
 
 ### Submission
-
-<!-- TODO: read the submission instructions then delete this comment -->
 
 Assuming that your project is in a GitHub repo somewhere and your changes are on
 a proof-of-concept branch, then what we'll want you to do is create a pull
@@ -427,7 +425,4 @@ If you'd like to give feedback for this assignment (or any assignment, really),
 make use of [this survey][survey]. Your feedback helps make assignments
 better for future students.
 
-<!-- TODO: follow the link to share your feedback then delete this comment -->
-
-[markdown-to-pdf-guide]: https://therenegadecoder.com/blog/how-to-convert-markdown-to-a-pdf-3-quick-solutions/
 [survey]: https://forms.gle/dumXHo6A4Enucdkq9

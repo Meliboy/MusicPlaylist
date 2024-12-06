@@ -67,6 +67,93 @@ the following form: YYYY.0M.0D.
 - Created initial drafts of the six portfolio assessments
 - Added READMEs to key folders like `test` and `lib` to explain their purpose
 
+## 2024.09.15
+
+### Added
+
+- Designed a Matrix component
+- Designed a Playlist component
+- Designed a PlayableCharacter component
+
+ 2024.09.15.
+
+## 2024.10.6
+
+### Changed
+
+- Updated the design of my Matrix component to have layering
+- Updated the design of my Playlist component to have layering
+- Updated the design of my PlayableCharacter component to have layering
+
+## 2024.10.28
+
+### Added
+
+- In Src Folder I added a java file with custom component MusicPlaylist
+- Implemented AddSong, removeNextSong, numberOfSongs (all kerenel)
+- Implemented PrintSongs (secondary method), using the three kernel methods
+- tested the methods in the main method and printed out results
+
+2024.10.28.
+
+## 2024.11.16
+
+### Added
+
+- Designed kernel and enhanced interfaces for MusicPlaylist
+component
+
+### Updated
+
+- Changed design to include more secondary methods. Such as loop, addPlaylist, nextSong and keeping shuffle and printPlaylist from original design.
+
+2024.11.16.
+
+## 2024.11.17
+
+### Added
+
+- Designed abstract class for MusicPlaylist component
+- implemented methods including nextSong, addPlaylist, loop, shuffle, toString, and equals
+
+### Updated
+
+- Changed design to include toString() in place of printPlaylist in orginal design (MusicPlaylist interface) and implemented all other methods in the interface and equals(). For hashCode I put a Reporter.fatalError to tell the client that the component doesn't support this method.
+
+### Changed
+
+- I changed the interface/ java doc comment for the shuffle method in my MusicPlaylist interface. I added the requirement that the size of the Playlist is greater than 3.
+
+2024.11.17.
+
+## 2024.11.20
+
+### Added
+
+- Designed kernel implementation for MusicPlaylist component
+
+2024.11.20.
+
+## 2024.12.04
+
+### Added
+
+- Designed test suite for MusicPlaylist component for kernel and standard
+
+2024.12.04.
+
+## 2024.12.05
+
+### Added
+
+- Designed two different use cases for MusicPlaylist component
+
+### Updated
+
+- Changed design to not include HashCode and Equals
+
+2024.12.05.
+
 [unreleased]: https://github.com/jrg94/portfolio-project/compare/v2024.08.07...HEAD
 [2024.08.07]: https://github.com/jrg94/portfolio-project/compare/v2024.01.07...v2024.08.07
 [2024.01.07]: https://github.com/jrg94/portfolio-project/releases/tag/v2024.01.07
